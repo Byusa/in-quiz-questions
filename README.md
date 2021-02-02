@@ -1,7 +1,7 @@
 ## Linkedin Quiz Answers, Skill Assessments Test
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-237-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-244-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 > This repository is for those looking for answers to the LinkedIn assessment quiz questions or willing to help others by contributing to the tests. Or possibly you would like to create your first pull request and be added as a contributor. Whatever is your goal - you are always welcome here!
@@ -411,6 +411,15 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://bloggercls8e.appspot.com/"><img src="https://avatars.githubusercontent.com/u/8018018?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Abhik Lodh</b></sub></a><br /><a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=abhiklodh" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/mdPial"><img src="https://avatars.githubusercontent.com/u/43095489?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Md. Pial Ahamed</b></sub></a><br /><a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=mdPial" title="Code">💻</a> <a href="#design-mdPial" title="Design">🎨</a></td>
     <td align="center"><a href="https://hassanshahzad.urspace.io/"><img src="https://avatars.githubusercontent.com/u/37936447?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hassan Shahzad</b></sub></a><br /><a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=HassanShahzad7" title="Code">💻</a> <a href="#design-HassanShahzad7" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/christiansgesp"><img src="https://avatars.githubusercontent.com/u/43465304?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Christian Sosa Gago</b></sub></a><br /><a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=christiansgesp" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/HrHasnai"><img src="https://avatars.githubusercontent.com/u/60227425?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hasnain Rasheed</b></sub></a><br /><a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=HrHasnai" title="Code">💻</a> <a href="#design-HrHasnai" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/T-Radford"><img src="https://avatars.githubusercontent.com/u/46270573?v=4?s=100" width="100px;" alt=""/><br /><sub><b>T-Radford</b></sub></a><br /><a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=T-Radford" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/dahiyashish"><img src="https://avatars.githubusercontent.com/u/38746838?v=4?s=100" width="100px;" alt=""/><br /><sub><b>dahiyashish</b></sub></a><br /><a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=dahiyashish" title="Code">💻</a> <a href="#design-dahiyashish" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/Rahulsharma468"><img src="https://avatars.githubusercontent.com/u/52377774?v=4?s=100" width="100px;" alt=""/><br /><sub><b>RahulSharma468</b></sub></a><br /><a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=Rahulsharma468" title="Code">💻</a> <a href="#design-Rahulsharma468" title="Design">🎨</a></td>
+    <td align="center"><a href="https://www.facebook.com/Muangthai.sriracha"><img src="https://avatars.githubusercontent.com/u/13193747?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jumpod Plekhongthu</b></sub></a><br /><a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=Pjumpod" title="Code">💻</a> <a href="#design-Pjumpod" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/thomasyoung-audet"><img src="https://avatars.githubusercontent.com/u/8418461?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Thomas Young-Audet</b></sub></a><br /><a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=thomasyoung-audet" title="Code">💻</a> <a href="#design-thomasyoung-audet" title="Design">🎨</a></td>
   </tr>
 </table>
 
